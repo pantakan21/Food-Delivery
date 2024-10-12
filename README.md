@@ -1,4 +1,4 @@
-# Ecommerce Website Tutorial(HTML CSS JAVASCRIPT REACT)
+# Food Delivery Website Tutorial(HTML CSS JAVASCRIPT REACT)
 
 This project is a tutorial from youtube "GreatStack" channel, designed to replicate its features and functionality for learning and development purposes.
 
